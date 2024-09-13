@@ -8,8 +8,11 @@
 <p float="left">
   <img src="assets/home.png" alt="Home" width="300" />
   <img src="assets/chat.png" alt="Chat" width="300" />
-  <img src="assets/law_repo.png" alt="Law Repo" width="300" />
+
 </p>
+
+
+![system_design](assets/law_repo.png)
 
 ## Features
 

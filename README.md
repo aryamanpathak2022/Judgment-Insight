@@ -108,12 +108,5 @@ Legal documents are analyzed through Flask-based APIs powered by PyTorch models.
 
 Sensitive legal data is encrypted using AES both in transit and at rest, ensuring compliance with data privacy regulations.
 
-## Contributing
-
-Feel free to contribute to this project by submitting pull requests or raising issues. Make sure to follow our code style guidelines.
-
-## License
-
-This project is licensed under the MIT License.
 
 

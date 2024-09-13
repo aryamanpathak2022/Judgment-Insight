@@ -17,6 +17,14 @@
 
 - **Platform for Law Literacy**: A chatbot interface to help users with legal queries based on trained AI models.
 
+## System design
+
+![system_design](assets/system_design.jpg)
+
+## Checkpoints
+
+![system_design](assets/checkpoint.png)
+
 ## Technologies Used
 
 ### Frontend

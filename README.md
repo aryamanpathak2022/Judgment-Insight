@@ -5,15 +5,9 @@
 
 **Judgment Insight** is a comprehensive AI-powered research engine designed to assist commercial courts by streamlining legal research, providing predictive analytics, and promoting law literacy. Our platform integrates cutting-edge machine learning models, efficient data management, and user-friendly interfaces to deliver insightful and localized legal information.
 
-<p float="left">
-  <img src="assets/home.png" alt="Home" width="300" />
-  <img src="assets/chat.png" alt="Chat" width="300" />
-
-</p>
-
-
+![system_design](assets/home.png)
+![system_design](assets/chat.png)
 ![system_design](assets/law_repo.png)
-
 ## Features
 
 - **Comprehensive Legal Data Aggregation**: We collect and normalize legal data from national/state databases, commercial court records, and legal literature through web scraping, APIs, and OCR.
